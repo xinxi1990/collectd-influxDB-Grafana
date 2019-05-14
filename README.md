@@ -18,3 +18,8 @@ Then you can open:
 
 - <http://localhost:8083>  influxdb admin page
 - <http://localhost:3000>  grafana web page (login with admin/admin)
+
+# Show
+
+![image](demo.png)
+
